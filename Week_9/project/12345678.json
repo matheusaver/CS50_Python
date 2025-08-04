@@ -1,0 +1,254 @@
+[
+    {
+        "Product":27527,
+        "Description":"EXPANSAO 1769 IQ16",
+        "Manufacturer":"ALLEN BRADLEY",
+        "Total":1
+    },
+    {
+        "Product":36201,
+        "Description":"EXPANSAO 1769-OB32",
+        "Manufacturer":"ALLEN BRADLEY",
+        "Total":2
+    },
+    {
+        "Product":36202,
+        "Description":"EXPANSAO 1769-IQ32",
+        "Manufacturer":"ALLEN BRADLEY",
+        "Total":2
+    },
+    {
+        "Product":36204,
+        "Description":"FONTE PARA CLP 1769-PB4",
+        "Manufacturer":"ALLEN BRADLEY",
+        "Total":1
+    },
+    {
+        "Product":86650,
+        "Description":"EXPANSAO 1769-OB16",
+        "Manufacturer":"ALLEN BRADLEY",
+        "Total":1
+    },
+    {
+        "Product":86652,
+        "Description":"1769-ECR COMPACTLOGIX ENDCAP",
+        "Manufacturer":"ALLEN BRADLEY",
+        "Total":1
+    },
+    {
+        "Product":105212,
+        "Description":"CLP AB COMPACTLOGIX 1769 L30ERM",
+        "Manufacturer":"ALLEN BRADLEY",
+        "Total":1
+    },
+    {
+        "Product":133804,
+        "Description":"SERVO CONVERSOR 460V 2198H025ERS",
+        "Manufacturer":"ALLEN BRADLEY",
+        "Total":3
+    },
+    {
+        "Product":135351,
+        "Description":"INVERSOR PF525 380V 1HP 25B-D2P3N114",
+        "Manufacturer":"ALLEN BRADLEY",
+        "Total":5
+    },
+    {
+        "Product":135352,
+        "Description":"CABO MOTOR AB 2090CSWM1DF14AA05",
+        "Manufacturer":"ALLEN BRADLEY",
+        "Total":3
+    },
+    {
+        "Product":135353,
+        "Description":"CABO MOTOR AB 2090CSBM1DF14AA05",
+        "Manufacturer":"ALLEN BRADLEY",
+        "Total":2
+    },
+    {
+        "Product":152896,
+        "Description":"INTERFACE AB PV800 10 POL 2711R-T10T",
+        "Manufacturer":"ALLEN BRADLEY",
+        "Total":1
+    },
+    {
+        "Product":157296,
+        "Description":"SWITCH AB STRATIX 1783-US16T",
+        "Manufacturer":"ALLEN BRADLEY",
+        "Total":1
+    },
+    {
+        "Product":141180,
+        "Description":"CABO ETHERNET 4P 0,3M MURR 774701-7770030",
+        "Manufacturer":"MURR",
+        "Total":1
+    },
+    {
+        "Product":141181,
+        "Description":"CABO ETHERNET 4P 0,6M MURR 774701-7770060",
+        "Manufacturer":"MURR",
+        "Total":4
+    },
+    {
+        "Product":141182,
+        "Description":"CABO ETHERNET 4P 1,0M MURR 774701-7770100",
+        "Manufacturer":"MURR",
+        "Total":1
+    },
+    {
+        "Product":141183,
+        "Description":"CABO ETHERNET 4P 1,5M MURR 774701-7770150",
+        "Manufacturer":"MURR",
+        "Total":1
+    },
+    {
+        "Product":187347,
+        "Description":"FONTE CHAVEADA OMRON 24V 10A S8VK-C24024",
+        "Manufacturer":"OMRON",
+        "Total":1
+    },
+    {
+        "Product":154064,
+        "Description":"SENSOR MAGNETICO SCHNEIDER XCSDMP7002 ",
+        "Manufacturer":"SCHNEIDER",
+        "Total":5
+    },
+    {
+        "Product":101544,
+        "Description":"CABO PARA SENSOR XS2F-M12PVC4A10M",
+        "Manufacturer":"SICK",
+        "Total":5
+    },
+    {
+        "Product":145865,
+        "Description":"SENSOR INDUTIVO NF 4MM IME12-04BPO-ZC0K SICK",
+        "Manufacturer":"SICK",
+        "Total":1
+    },
+    {
+        "Product":147700,
+        "Description":"ESPELHO REFLETOR SICK 45X28 P32",
+        "Manufacturer":"SICK",
+        "Total":1
+    },
+    {
+        "Product":147701,
+        "Description":"SENSOR BARREIRA SICK PNP VSE180-2P42432",
+        "Manufacturer":"SICK",
+        "Total":1
+    },
+    {
+        "Product":147702,
+        "Description":"SENSOR DIFUSO SICK PNP 800MM GRTE18-P2467",
+        "Manufacturer":"SICK",
+        "Total":1
+    },
+    {
+        "Product":147703,
+        "Description":"SENSOR RETROFLEXIVO SICK PNP GRL18-P2437",
+        "Manufacturer":"SICK",
+        "Total":1
+    },
+    {
+        "Product":150213,
+        "Description":"SENSOR DIFUSO SICK PNP 100MM GRTE18-P241",
+        "Manufacturer":"SICK",
+        "Total":1
+    },
+    {
+        "Product":189113,
+        "Description":"SENSOR INDUTIVO NA 4MM IME12-04BPS-ZC0K SICK",
+        "Manufacturer":"SICK",
+        "Total":1
+    },
+    {
+        "Product":8561,
+        "Description":"POSTE FINAL WEG - PF3-BTW",
+        "Manufacturer":"WEG",
+        "Total":2
+    },
+    {
+        "Product":9578,
+        "Description":"DISJ. MOTOR 10-16A MPW40-3-U016 12428128",
+        "Manufacturer":"WEG",
+        "Total":5
+    },
+    {
+        "Product":82130,
+        "Description":"BORNE SIMPLES WEG BTWP-2.5",
+        "Manufacturer":"WEG",
+        "Total":10
+    },
+    {
+        "Product":86408,
+        "Description":"RELE DE SEGURANCA CP-D24 VCC WEG",
+        "Manufacturer":"WEG",
+        "Total":1
+    },
+    {
+        "Product":88277,
+        "Description":"TAMPA BORNE SIMPLES WEG - TF-BTWP2,5-10",
+        "Manufacturer":"WEG",
+        "Total":1
+    },
+    {
+        "Product":113466,
+        "Description":"BORNE RELE WEG BTWR-P16E26",
+        "Manufacturer":"WEG",
+        "Total":8
+    },
+    {
+        "Product":134396,
+        "Description":"FLANGE BOTAO WEG AF3F 12670264",
+        "Manufacturer":"WEG",
+        "Total":4
+    },
+    {
+        "Product":137406,
+        "Description":"BOTAO VERDE WEG CSW-BF2 WH 12882149",
+        "Manufacturer":"WEG",
+        "Total":1
+    },
+    {
+        "Product":137407,
+        "Description":"BOTAO VERMELHO WEG CSW-BF1 WH 12881927",
+        "Manufacturer":"WEG",
+        "Total":1
+    },
+    {
+        "Product":137408,
+        "Description":"BOTAO AZUL WEG CSW-BF4 WH 12882151",
+        "Manufacturer":"WEG",
+        "Total":1
+    },
+    {
+        "Product":137413,
+        "Description":"BLOCO CONTATO 1NA WEG BC10F-CSW 12891184",
+        "Manufacturer":"WEG",
+        "Total":6
+    },
+    {
+        "Product":137415,
+        "Description":"BLOCO SEG INF WEG BCM01F-CSW 13262011",
+        "Manufacturer":"WEG",
+        "Total":2
+    },
+    {
+        "Product":143429,
+        "Description":"BOTAO EMERGENCIA WEG CSW-BESG WH 12882447",
+        "Manufacturer":"WEG",
+        "Total":1
+    },
+    {
+        "Product":228200,
+        "Description":"DISJ. MOTOR 32-40A MPW40-3-U040 12382551",
+        "Manufacturer":"WEG",
+        "Total":1
+    },
+    {
+        "Product":236670,
+        "Description":"PLAQUETA EMERGENCIA APE 10045238",
+        "Manufacturer":"WEG",
+        "Total":1
+    }
+]
