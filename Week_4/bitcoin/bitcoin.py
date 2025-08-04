@@ -1,7 +1,7 @@
 import json
 import requests
 import sys
-
+key = 0 #INSERT YOUR KEY FROM COINCAP HERE
 
 if len(sys.argv) != 2:
     sys.exit("Invalid arguments")
@@ -16,7 +16,7 @@ except:
 try:
     url = "https://rest.coincap.io/v3/assets/bitcoin"
     headers = {
-        "Authorization": "Bearer 3d19b2507708544ba82a48acc7d610eb882bb7643c7591a6e03f531165d181f8"
+        "Authorization": "Bearer {key}"
     }
     response = requests.get(url, headers=headers)
 except requests.RequestException:
