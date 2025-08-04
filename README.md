@@ -1,20 +1,19 @@
 
 <div align=center>
     <h1> Harvard CS50: Introduction to Programing with Python </h1>
-    <h2></h2>
 </div>
 
 <div align=center>
     <a href="https://cs50.harvard.edu/python/">Course Link</a> |
     <a href="https://github.com/matheusaver/CS50_Python/tree/master/Week_9/project">Final Project</a> |
     <a href="https://cs50.harvard.edu/certificates/aaed8e30-6d46-4bbc-a7a5-65514a4643a9">Certificate </a>
-    <h2></h2>
+    <h1></h1>
 </div>
 
 <div align="center">
 
 |Weeks|Topic|Problem Sets|
-|--------|----------|----|
+|------|----------|------------------------|
 |Week 0 | Functions, Variables|[Indoor Voice](https://github.com/matheusaver/CS50_Python/tree/master/Week_0/indoor/indoor.py) - [Playback Speed](https://github.com/matheusaver/CS50_Python/tree/master/Week_0/playback/playback.py) - [Making Faces](https://github.com/matheusaver/CS50_Python/tree/master/Week_0/faces/faces.py) - [Einstein](https://github.com/matheusaver/CS50_Python/tree/master/Week_0/einstein/einstein.py) - [Tip Calculator](https://github.com/matheusaver/CS50_Python/tree/master/Week_0/tip/tip.py)|
 |Week 1 | Conditionals |[Deep Thought](https://github.com/matheusaver/CS50_Python/tree/master/Week_1/deep/deep.py) - [Home Federal Savings Bank](https://github.com/matheusaver/CS50_Python/tree/master/Week_1/bank/bank.py) - [File Extensions](https://github.com/matheusaver/CS50_Python/tree/master/Week_1/extensions/extensions.py) - [Math Interpreter](https://github.com/matheusaver/CS50_Python/tree/master/Week_1/interpreter/interpreter.py) - [Meal Time](https://github.com/matheusaver/CS50_Python/tree/master/Week_1/meal/meal.py)
 |Week 2 | Loops |[camelCase](https://github.com/matheusaver/CS50_Python/tree/master/Week_2/camel/camel.py) - [Coke Machine](https://github.com/matheusaver/CS50_Python/tree/master/Week_2/coke/coke.py) - [Just setting up my twttr](https://github.com/matheusaver/CS50_Python/tree/master/Week_2/twttr/twttr.py) - [Vanity Plates](https://github.com/matheusaver/CS50_Python/tree/master/Week_2/plates/plates.py) - [Nutrition Facts](https://github.com/matheusaver/CS50_Python/tree/master/Week_2/nutrition/nutrition.py)|
