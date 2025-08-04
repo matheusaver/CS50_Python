@@ -12,7 +12,7 @@
 
 <div align="center">
 
-|Weeks  |Topic|Problem Sets|
+|  Weeks  |Topic|Problem Sets|
 |------|----------|------------------------|
 |Week 0 | Functions, Variables|[Indoor Voice](https://github.com/matheusaver/CS50_Python/tree/master/Week_0/indoor/indoor.py) - [Playback Speed](https://github.com/matheusaver/CS50_Python/tree/master/Week_0/playback/playback.py) - [Making Faces](https://github.com/matheusaver/CS50_Python/tree/master/Week_0/faces/faces.py) - [Einstein](https://github.com/matheusaver/CS50_Python/tree/master/Week_0/einstein/einstein.py) - [Tip Calculator](https://github.com/matheusaver/CS50_Python/tree/master/Week_0/tip/tip.py)|
 |Week 1 | Conditionals |[Deep Thought](https://github.com/matheusaver/CS50_Python/tree/master/Week_1/deep/deep.py) - [Home Federal Savings Bank](https://github.com/matheusaver/CS50_Python/tree/master/Week_1/bank/bank.py) - [File Extensions](https://github.com/matheusaver/CS50_Python/tree/master/Week_1/extensions/extensions.py) - [Math Interpreter](https://github.com/matheusaver/CS50_Python/tree/master/Week_1/interpreter/interpreter.py) - [Meal Time](https://github.com/matheusaver/CS50_Python/tree/master/Week_1/meal/meal.py)
